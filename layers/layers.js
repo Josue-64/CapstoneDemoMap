@@ -7,7 +7,7 @@ var wms_layers = [];
             
             
             source: new ol.source.XYZ({
-            attributions: ' ',
+            attributions: 'Map data from <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
                 url: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png'
             })
         });
