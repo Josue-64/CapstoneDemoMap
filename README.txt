@@ -1,8 +1,8 @@
-# Map Showcase Demo
+#Map Showcase Demo
 
 This project is a demo of how an interactive map made in QGIS can be shown on an ordinary webpage.
 
-## Steps taken
+##Steps taken
 
 1. Made the map in QGIS and exported it with the qgis2web plugin. This created the `index.html` file, `resources`, `layers`, `styles`, `images` and `webfonts` folders which were left unedited.
 2. Created `MapShowcase.html` (the webpage) and `style.css` (its styling).
